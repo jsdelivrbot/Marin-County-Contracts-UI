@@ -11,6 +11,9 @@
     "heroku",
     "express"
   ],
+  "engines": {
+    "node": "6.10.0"
+  },
   "author": "Eugenio Rodriguez",
   "license": "ISC",
   "dependencies": {
